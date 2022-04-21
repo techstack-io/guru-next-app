@@ -4,7 +4,7 @@ import Head from "next/head";
 const PageTitle = ({ page }) => {
   return (
     <Head>
-      <title>{page} | Guru - Find Your Self</title>
+      <title>{page} | Parasol - Find Your Inner Peace</title>
     </Head>
   );
 };
