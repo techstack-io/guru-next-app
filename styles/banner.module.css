@@ -26,7 +26,7 @@
 }
 
 .button {
-  background-color: var(--text-jade);
+  background-color: var(--base-org-red-lt);
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
   cursor: pointer;
   color: white;
@@ -38,7 +38,7 @@
 }
 
 .button:hover {
-  background-color: var(--text-jade-dark);
+  background-color: var(--base-org-red);
 }
 
 /** 

@@ -19,6 +19,11 @@ a {
 }
 
 :root {
+
+  /* base */
+  --base-org-red: #CE2801;
+  --base-org-red-lt: #FE3300;
+  /* text */
   --text-blue-cyan: #2A3E5A;
   --text-purple-navy-dark: #393250;
   --text-jade: #15AA6B;

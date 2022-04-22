@@ -1,12 +1,12 @@
 {
     "workbench.colorCustomizations": {
-        "statusBar.foreground": "#FFD0B0",
-        "statusBar.background": "#914B1B",
-        "statusBarItem.hoverBackground": "#564410",
-        "statusBarItem.remoteForeground": "#DEEF81",
-        "statusBarItem.remoteBackground": "#5A6B00",
-        "statusBar.debuggingForeground": "#000000",
-        "statusBar.debuggingBackground": "#C78252"
+        "statusBar.foreground": "#FAF3FF",
+        "statusBar.background": "#793AB0",
+        "statusBarItem.hoverBackground": "#662A6D",
+        "statusBarItem.remoteForeground": "#FFE3F7",
+        "statusBarItem.remoteBackground": "#A22F80",
+        "statusBar.debuggingForeground": "#21003E",
+        "statusBar.debuggingBackground": "#B071E7"
     },
     "jshint.enable": false,
     "standard.enable": false,
