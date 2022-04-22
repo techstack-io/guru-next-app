@@ -7,7 +7,7 @@
   font-family: -apple-system, 'Dosis';
   letter-spacing: -0.025em;
   font-weight: 400;
-  color: var(--text-purple-navy);
+  color: var(--text-blue-cyan);
 
   font-size: 3rem /* 48px */;
   line-height: 1;
@@ -17,8 +17,8 @@
   margin-top: 0.25rem !important;
   font-size: 1.5rem /* 24px */;
   line-height: 2rem /* 32px */;
-
-  color: var(--text-white-100);
+  font-weight: 200;
+  color: var(--text-purple-navy);
 }
 
 .buttonWrapper {

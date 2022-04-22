@@ -2,12 +2,10 @@ html,
 body {
   padding: 0;
   margin: 0;
-
-
   background: url("/static/hero-6-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50%;
+
 
 }
 
@@ -21,7 +19,7 @@ a {
 }
 
 :root {
-  --text-purple-navy: #64588A;
+  --text-blue-cyan: #2A3E5A;
   --text-purple-navy-dark: #393250;
   --text-jade: #15AA6B;
   --text-jade-dark: #0e7047;
