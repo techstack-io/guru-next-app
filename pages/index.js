@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import PageTitle from "../components/Layout/PageTitle";
+import PageTitle from "../src/components/layout/PageTitle";
+import Layout from "../src/components/layout"
 import styles from '../styles/Home.module.css';
 import Banner from '../components/banner/banner';
 import Navbar from '../components/navigation/navbar'
@@ -18,7 +19,7 @@ export default function Home() {
       <main className={styles.main}>
         <Banner buttonText="Let's Begin!" handleOnClick={handleOnBannerBtnClick}/>
         <div className={styles.heroImage}>
-        <Image src='/static/business-3d-girl-with-coffee.png' width={600} height={560} />
+        <Image src='/static/business-3d-girl-with-coffee.png' width={560} height={560} />
         </div>
       </main>
     </div>
